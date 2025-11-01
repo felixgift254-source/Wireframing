@@ -17,9 +17,9 @@ A low-fidelity wireframe is like a quick sketch on a napkin. It shows the rooms,
 A high-fidelity wireframe is like a detailed architectural blueprint or a 3D model. It shows precise measurements, materials, electrical outlets, and looks very close to the final house.
 
 # Benefits of Wireframing
-## Real-Time Feedback: 
+##  Real-Time Feedback: 
 Stakeholders, product managers, and developers can drop comments directly onto the wireframe canvas. This eliminates the ambiguity of email chains and long feedback documents. A client can pinpoint a specific button and write, "What happens when I click this?"
-##Single Source of Truth: 
+##  Single Source of Truth: 
 There is only one version of the design file—the one in the cloud. This prevents confusion caused by multiple outdated files (e.g., wireframe_v2_final_final.fig).
-##Developer Handoff:
+##  Developer Handoff:
 When the wireframes and high-fidelity designs are complete, developers can access a "Inspect" tab. This provides them with all the CSS properties, measurements, colors, and assets they need to build the product, drastically streamlining the handoff process.
