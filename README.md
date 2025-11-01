@@ -11,3 +11,7 @@ Boxes and lines represent where images, text, and videos will go.
 Basic representations of buttons, search fields, menus, and other interactive elements.
 ## Navigational Flow
 It shows how users will move between different sections of the website or app
+
+# Types of Wireframes
+A low-fidelity wireframe is like a quick sketch on a napkin. It shows the rooms, doors, and windows, giving you a general idea of the layout and flow.
+A high-fidelity wireframe is like a detailed architectural blueprint or a 3D model. It shows precise measurements, materials, electrical outlets, and looks very close to the final house.
